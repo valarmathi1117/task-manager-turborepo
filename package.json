@@ -2,7 +2,7 @@
   "name": "my-turborepo",
   "private": true,
   "scripts": {
-    "packageManager": "pnpm@11.23.0",
+    "packageManager": "pnpm@10.12.4",
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
@@ -14,7 +14,7 @@
     "turbo": "^2.10.12",
     "typescript": "7.0.2"
   },
-  "packageManager": "pnpm@11.23.0",
+  "packageManager": "pnpm@10.12.4",
   "engines": {
     "node": ">=24"
   }
